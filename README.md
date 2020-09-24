@@ -1,1 +1,1 @@
-# sql-project
+# School management system
